@@ -399,6 +399,12 @@ Path: C:\Users\Foo\Projects\go\bin;C:\tools\go\bin;.
 message ListReleasesResponse {
     repeated ReleaseInfo releases = 1;
 }
+
+---------------------------------------------
+
+https://stackoverflow.com/questions/41389933/when-to-use-log-over-fmt-for-debugging-and-printing-error
+stream & Repeater Object
+https://stackoverflow.com/questions/43167762/how-to-return-an-array-in-protobuf-service-rpc
   
   
   

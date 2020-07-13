@@ -1,0 +1,404 @@
+Google GO:
+
+https://code.visualstudio.com/docs/languages/go
+https://github.com/golang/vscode-go/blob/master/docs/debugging.md
+
+https://golang.org/
+
+https://en.wikipedia.org/wiki/Go_(programming_language)
+Google Go
+
+gccgo
+how to use gccgo, a compiler for the Go language
+
+Windows:
+
+https://golang.org/doc/install?download=go1.14.4.windows-amd64.msi
+(Getting Started)
+
+------------------------------------------------------
+
+There are two major implementations:
+
+Google's self-hosting[17] compiler toolchain targeting multiple operating systems, mobile devices,[18] and WebAssembly.[19]
+gccgo, a GCC frontend.[20][21]
+A third-party transpiler GopherJS[22] compiles Go to JavaScript for front-end web development.
+
+------------------------------------------------------
+
+https://www.vskills.in/certification/blog/what-is-go-language-and-why-is-it-so-popular/
+
+https://en.wikipedia.org/wiki/GNU_Compiler_Collection
+
+----------------------
+
+gRPC
+
+https://github.com/grpc/grpc-go
+https://grpc.io/docs/languages/go/basics/
+https://grpc.io/docs/what-is-grpc/introduction/
+
+
+
+# Filter python objects with list comprehensions
+# filtered_mapped_value = [x for x in mapping_json_value if x['Id'] == int(emp['projectId'])]
+# vertical_owner = 'not defined' if filtered_mapped_value is None else 'n'
+
+-------------------------------
+
+Tutorial gRPC
+
+https://grpc.io/docs/languages/go/basics/
+https://github.com/grpc/grpc.io/blob/master/content/docs/languages/go/basics.md
+https://github.com/grpc/grpc-go/tree/master/examples/route_guide
+
+-------------------------------
+
+https://www.tutorialspoint.com/go/go_environment.htm
+https://www.tutorialspoint.com/execute_golang_online.php
+
+https://www.quora.com/What-are-the-top-10-use-cases-of-Go-language
+
+------------------------------------
+
+https://golang.org/doc/
+https://golang.org/ref/spec
+https://tour.golang.org/welcome/1
+https://blog.golang.org/playground
+https://golangbot.com/structs-instead-of-classes/
+https://medium.com/@tilaklodha/concurrency-and-parallelism-in-golang-5333e9a4ba64#:~:text=In%20Go%2C%20concurrency%20is%20achieved,creating%20them%20is%20very%20low.
+
+https://stackoverflow.com/questions/25106526/parallel-processing-in-golang
+
+https://gobyexample.com/goroutines
+https://gobyexample.com/waitgroups
+----------------------------------
+
+A system is said to be concurrent if it can support two or more actions in progress at the same time. 
+A system is said to be parallel if it can support two or more actions executing simultaneously.
+https://medium.com/@itIsMadhavan/concurrency-vs-parallelism-a-brief-review-b337c8dac350#:~:text=A%20system%20is%20said%20to,or%20more%20actions%20executing%20simultaneously.&text=Meanwhile%2C%20multiple%20actions%20are%20simultaneously%20executed%20in%20parallel%20systems.
+
+https://www.perforce.com/blog/qac/multithreading-parallel-programming-c-cpp
+https://medium.com/a-journey-with-go/go-goroutine-os-thread-and-cpu-management-2f5a5eaf518a
+
+https://medium.com/a-journey-with-go/go-goroutine-os-thread-and-cpu-management-2f5a5eaf518a
+
+https://hub.packtpub.com/concurrency-and-parallelism-in-golang-tutorial/
+
+https://www.geeksforgeeks.org/go-vs-c-plus-plus/
+
+https://stackoverflow.com/questions/25106526/parallel-processing-in-golang
+Parallel
+GOMAXPROCS
+
+https://thenewstack.io/go-programming-language-helps-docker-container-ecosystem/
+
+
+https://medium.com/@kevalpatel2106/why-should-you-learn-go-f607681fad65
+
+https://www.ardanlabs.com/blog/2014/01/concurrency-goroutines-and-gomaxprocs.html
+(Concurrency example)
+
+https://www.quora.com/Is-the-performance-of-Go-comparable-to-C++
+
+https://news.ycombinator.com/item?id=4110480
+
+C is for low-level code, where you usually want deterministic, real-time behavior. Go cannot deliver that because of its GC.
+
+https://www.quora.com/For-which-purpose-is-the-Go-programming-language-used
+Go is a general purpose language so it can be used for almost anything. It has garbage collection so it is unsuitable for embedded or real-time software.
+
+https://en.wikipedia.org/wiki/Deterministic_system
+
+https://gobyexample.com/interfaces
+------------------------------------------
+
+https://stackoverflow.com/questions/50981541/is-c-a-single-threaded-language#:~:text=2%20Answers&text=The%20C%20programming%20language%20is,technical%20report)%20not%20a%20software.
+
+
+https://stackoverflow.com/questions/5214235/parallel-programming-in-c
+
+https://www.openmp.org/
+The OpenMP API specification for parallel programming
+----------------------------------
+https://www.zdnet.com/article/googles-parallel-programming-model/
+
+-----------------------------------
+-----------------------------------
+
+https://grpc.io/docs/languages/go/basics/#client
+https://developers.google.com/protocol-buffers/docs/proto3
+https://developers.google.com/protocol-buffers/docs/reference/go-generated
+https://developers.google.com/protocol-buffers/docs/reference/csharp-generated#repeated
+
+
+https://www.reddit.com/r/golang/comments/8ozfks/from_c_to_go/
+
+----------------------------------------------
+----------------------------------------------
+
+https://dev.to/techschoolguru/how-to-define-a-protobuf-message-and-generate-go-code-4g4e
+https://rominirani.com/setup-go-development-environment-with-visual-studio-code-7ea5d643a51a
+
+
+"go.useLanguageServer": true
+http://www.matthiassommer.it/programming/go-please-visual-studio-code-go-mod-go-language-server/#:~:text=Go%20module%20setup%20in%20Visual%20Studio%20Code&text=However%2C%20you%20can%20also%20use,%2D%3E%20%E2%80%9CCommand%20Palette%E2%80%9D.
+----------------------
+----------------------
+
+First example:
+
+https://grpc.io/docs/languages/go/quickstart/
+Clang-Format
+vscode-proto3
+
+https://stackoverflow.com/questions/41836209/only-one-usage-of-each-socket-address-protocol-network-address-port-is-normall
+
+
+https://chromium.googlesource.com/infra/luci/luci-py/+/master/appengine/components/components/config/proto/service_config.proto
+https://cloud.google.com/endpoints/docs/grpc/grpc-service-config
+----------------------------------------
+----------------------------------------
+$ ( cd ../../cmd/protoc-gen-go-grpc && go install . )
+$ protoc \
+  --go_out=Mgrpc/service_config/service_config.proto=/internal/proto/grpc_service_config:. \
+  --go-grpc_out=Mgrpc/service_config/service_config.proto=/internal/proto/grpc_service_config:. \
+  --go_opt=paths=source_relative \
+  --go-grpc_opt=paths=source_relative \
+  helloworld/helloworld.proto
+
+$ protoc --go_out=Mgrpc/service_config/service_config.proto=/internal/proto/grpc_service_config:. --go-grpc_out=Mgrpc/service_config/service_config.proto=/internal/proto/grpc_service_config:. --go_opt=paths=source_relative --go-grpc_opt=paths=source_relative helloworld/helloworld.proto
+protoc -I=Proto-buffer/ --go_out=Proto-buffer/ Proto-buffer/addressbook.proto
+
+https://medium.com/@dev.ashurai/protoc-protobuf-installation-on-windows-linux-mac-d70d5380489d
+
+https://www.reddit.com/r/golang/comments/cfua8w/vscode_with_go111_modules/
+
+https://marketplace.visualstudio.com/items?itemName=peterj.proto#:~:text=Launch%20Visual%20Studio%20code%2C%20press,should%20be%20ready%20to%20go.
+
+
+
+-----------------------------------
+
+https://medium.com/@nikhilajayk/creating-your-first-grpc-net-core-client-and-server-app-using-visual-studio-or-visual-studio-code-293a6a5a5f7
+
+------------------------
+
+https://docs.microsoft.com/en-us/cpp/build/vscpp-step-0-installation?view=vs-2019
+https://github.com/Microsoft/vcpkg
+
+C:\src\vcpkg or C:\dev\vcpkg, since otherwise you may run into path issues for some port build systems.
+
+> git clone https://github.com/microsoft/vcpkg
+> .\vcpkg\bootstrap-vcpkg.bat
+
+https://github.com/protocolbuffers/protobuf/blob/master/src/README.md
+vcpkg install protobuf protobuf:x64-windows
+
+https://developers.google.com/protocol-buffers/docs/gotutorial
+
+-------------------------------
+
+C:\src\vcpkg>.\vcpkg\vcpkg install protobuf protobuf:x64-windows
+Computing installation plan...
+The following packages will be built and installed:
+    protobuf[core]:x64-windows
+    protobuf[core]:x86-windows
+A suitable version of powershell-core was not found (required v6.2.1). Downloading portable powershell-core v6.2.1...
+Extracting powershell-core...
+Starting package 1/2: protobuf:x64-windows
+Building package protobuf[core]:x64-windows...
+-- Downloading https://github.com/protocolbuffers/protobuf/archive/31ebe2ac71400344a5db91ffc13c4ddfb7589f92.tar.gz...
+-- Extracting source C:/src/vcpkg/vcpkg/downloads/protocolbuffers-protobuf-31ebe2ac71400344a5db91ffc13c4ddfb7589f92.tar.gz
+-- Applying patch fix-uwp.patch
+-- Applying patch fix-android-log.patch
+-- Applying patch fix-static-build.patch
+-- Using source at C:/src/vcpkg/vcpkg/buildtrees/protobuf/src/dfb7589f92-61fbc4fa5f.clean
+-- Configuring x64-windows
+-- Building x64-windows-dbg
+-- Building x64-windows-rel
+-- Installing: C:/src/vcpkg/vcpkg/packages/protobuf_x64-windows/tools/protobuf/protoc.exe
+-- Installing: C:/src/vcpkg/vcpkg/packages/protobuf_x64-windows/share/protobuf/copyright
+-- Performing post-build validation
+-- Performing post-build validation done
+Building package protobuf[core]:x64-windows... done
+Installing package protobuf[core]:x64-windows...
+Installing package protobuf[core]:x64-windows... done
+Elapsed time for package protobuf:x64-windows: 5.056 min
+Starting package 2/2: protobuf:x86-windows
+Building package protobuf[core]:x86-windows...
+-- Using cached C:/src/vcpkg/vcpkg/downloads/protocolbuffers-protobuf-31ebe2ac71400344a5db91ffc13c4ddfb7589f92.tar.gz
+-- Cleaning sources at C:/src/vcpkg/vcpkg/buildtrees/protobuf/src/dfb7589f92-61fbc4fa5f.clean. Pass --editable to vcpkg to reuse sources.
+-- Extracting source C:/src/vcpkg/vcpkg/downloads/protocolbuffers-protobuf-31ebe2ac71400344a5db91ffc13c4ddfb7589f92.tar.gz
+-- Applying patch fix-uwp.patch
+-- Applying patch fix-android-log.patch
+-- Applying patch fix-static-build.patch
+-- Using source at C:/src/vcpkg/vcpkg/buildtrees/protobuf/src/dfb7589f92-61fbc4fa5f.clean
+-- Configuring x86-windows
+-- Building x86-windows-dbg
+-- Building x86-windows-rel
+-- Installing: C:/src/vcpkg/vcpkg/packages/protobuf_x86-windows/tools/protobuf/protoc.exe
+-- Installing: C:/src/vcpkg/vcpkg/packages/protobuf_x86-windows/share/protobuf/copyright
+-- Performing post-build validation
+-- Performing post-build validation done
+Building package protobuf[core]:x86-windows... done
+Installing package protobuf[core]:x86-windows...
+Installing package protobuf[core]:x86-windows... done
+Elapsed time for package protobuf:x86-windows: 4.059 min
+
+Total elapsed time: 9.204 min
+
+The package protobuf:x64-windows provides CMake targets:
+
+    find_package(protobuf CONFIG REQUIRED)
+    target_link_libraries(main PRIVATE protobuf::libprotoc protobuf::libprotobuf protobuf::libprotobuf-lite)
+
+The package protobuf:x86-windows provides CMake targets:
+
+    find_package(protobuf CONFIG REQUIRED)
+    target_link_libraries(main PRIVATE protobuf::libprotoc protobuf::libprotobuf protobuf::libprotobuf-lite)
+
+
+C:\src\vcpkg>
+
+--------------------------------------------------
+
+C:\Users\g_shetty\Desktop\Code\Proto-buffer
+
+---------------------------------------------------
+
+protoc -I=Proto-buffer/ --go_out=Proto-buffer/ Proto-buffer/addressbook.proto
+
+ protoc -I routeguide/ routeguide/route_guide.proto --go_out=plugins=grpc:routeguide
+
+------------------------
+
+C:\Users\g_shetty\Desktop\Code\Go_Lang_code\gRPC_Tutorial\quick_start\grpc-go\examples\helloworld\helloworld
+
+-------------------------
+
+https://codebase.site/question/show_question_details/6997
+
+# User variables
+GO111MODULE: on
+GOPATH: C:\Users\Foo\Projects\go
+Path: C:\Users\Foo\Projects\go\bin;C:\tools\go\bin;.
+
+---------------------------------
+
+
+C:\Users\g_shetty\Desktop\Code\Go_Lang_tools\protoc-3.12.3-win64\bin
+
+----------------------------------
+
+C:\Users\g_shetty\Desktop\Code\Go_Lang_code\gRPC_Tutorial\quick_start\grpc-go\examples\helloworld>cd ../../cmd/protoc-gen-go-grpc && go install .
+
+protoc --go_out=Mgrpc/service_config/service_config.proto=/internal/proto/grpc_service_config:. --go-grpc_out=Mgrpc/service_config/service_config.proto=/internal/proto/grpc_service_config:. --go_opt=paths=source_relative --go-grpc_opt=paths=source_relative helloworld/helloworld.proto
+  
+go get -u github.com/golang/protobuf/proto
+
+C:\Users\g_shetty\Desktop\Code\Go_Lang_code\gRPC_Tutorial\quick_start\grpc-go\examples\helloworld>
+
+
+https://developers.google.com/protocol-buffers/docs/reference/go/faq
+undefined: "github.com/golang/protobuf/proto".ProtoPackageIsVersion4
+
+--------------
+
+Actual --> First -Proto -->
+https://developers.google.com/protocol-buffers/docs/gotutorial
+----------------------------------  
+
+protoc -I=Gautham_Test --go_out=Gautham_Test Gautham_Test/addressbook.proto
+https://github.com/protocolbuffers/protobuf/blob/master/examples/add_person.go
+https://medium.com/rungo/unit-testing-made-easy-in-go-25077669318
+https://github.com/protocolbuffers/protobuf/blob/master/examples/list_people_test.go
+
+-----------------------------------
+
+https://stackoverflow.com/questions/41389933/when-to-use-log-over-fmt-for-debugging-and-printing-error
+
+https://blog.gopheracademy.com/advent-2017/go-grpc-beyond-basics/
+(Good)
+
+https://developers.google.com/protocol-buffers/docs/gotutorial
+https://stackoverflow.com/questions/43167762/how-to-return-an-array-in-protobuf-service-rpc
+
+https://gobyexample.com/testing
+
+-----------------------------------
+
+https://blog.alexellis.io/golang-writing-unit-tests/
+
+https://stackoverflow.com/questions/17539407/how-to-import-local-packages-without-gopath
+
+------------------------------
+
+Testing:
+
+https://gobyexample.com/testing
+https://stackoverflow.com/questions/17539407/how-to-import-local-packages-without-gopath
+
+--------------------
+
+https://golang.org/doc/code.html
+https://gobyexample.com/testing
+
+https://blog.francium.tech/go-modules-go-project-set-up-without-gopath-1ae601a4e868
+
+------------------------------
+
+https://www.callicoder.com/golang-packages/
+
+
+https://golangbot.com/go-packages/#:~:text=Create%20the%20simple%20interest%20custom%20package&text=Create%20a%20file%20simpleinterest.go,directory%20structure%20of%20our%20application.&text=Add%20the%20following%20code%20to%20the%20simpleinterest.go%20file.
+
+----------------------------------
+
+GO111MODULE
+
+on
+
+----
+
+go build
+
+go run hello.go
+
+--------------
+
+
+I've tested this one:
+
+https://developers.google.com/protocol-buffers/docs/gotutorial
+
+https://golang.org/pkg/testing/
+
+----------------
+
+
+protoc -I=Proto-buffer/ --go_out=Proto-buffer/ Proto-buffer/addressbook.proto
+
+ protoc -I routeguide/ routeguide/route_guide.proto --go_out=plugins=grpc:routeguide
+
+------------------------
+
+https://codebase.site/question/show_question_details/6997
+
+# User variables
+GO111MODULE: on
+GOPATH: C:\Users\Foo\Projects\go
+Path: C:\Users\Foo\Projects\go\bin;C:\tools\go\bin;.
+
+-----------------------
+
+[]*pb.Person
+
+&pb.AddressBook{People
+
+message ListReleasesResponse {
+    repeated ReleaseInfo releases = 1;
+}
+  
+  
+  
